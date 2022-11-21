@@ -1,6 +1,6 @@
 # Sdu-ict-students
 information about ict students
-x = int(1)
+x = int(1.5)
 y = int(2.8)
 z = int("3")
 print(x)
